@@ -7,5 +7,6 @@ La présentation par défaut est celle du croisement de l’espérance de vie à
 
 En premier lieu, voici cette représentation du GapMinder élaboré avec matplotlib (Python) : 
 
+![alt text](https://github.com/mahfoud-gz/Data-visualization_1/blob/main/Data_viz_1_files/GapMinder.png?raw=true)
 
 

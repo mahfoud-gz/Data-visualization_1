@@ -9,7 +9,6 @@ En premier lieu, voici cette représentation du GapMinder élaboré avec matplot
 
 ![alt text](https://github.com/mahfoud-gz/Data-visualization_1/blob/main/Data_viz_1_files/GapMinder.png?raw=true)
 
-
-De plus, avec les données du nombre de population par pays, le graphique suivant est une visualisation dynamique, évoluant selon l'année, avec une projection du nombre de population jusqu'en 2100. 
+De plus, avec les données du nombre de population par pays, le graphique suivant est une visualisation dynamique, évoluant selon l'année, avec une projection du nombre de population jusqu'en 2100. De plus, pour conserver une cohérence, ces deux graphiques adoptent le même code couleur par continent : Asie (rouge), Europe (jaune), Afrique (bleu), Amérique (vert). 
 
 ![alt text](https://github.com/mahfoud-gz/Data-visualization_1/blob/main/Data_viz_1_files/Bar_chart_race_population.gif)

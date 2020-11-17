@@ -10,3 +10,5 @@ En premier lieu, voici cette représentation du GapMinder élaboré avec matplot
 ![alt text](https://github.com/mahfoud-gz/Data-visualization_1/blob/main/Data_viz_1_files/GapMinder.png?raw=true)
 
 
+De plus, avec les données du nombre de population par pays, le graphique suivant est une visualisation dynamique, évoluant selon l'année, avec une projection du nombre de population jusqu'en 2100. 
+
